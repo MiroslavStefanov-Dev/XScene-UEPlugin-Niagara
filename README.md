@@ -195,3 +195,5 @@ Contributions and feature requests are welcome!
 <a href="https://github.com/xverse-engine/XV3DGS-UEPlugin/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=xverse-engine/XV3DGS-UEPlugin" />
 </a>
+
+https://www.perplexity.ai/search/na-kakv-printsip-raboti-hypers-fv86aT47Tki82eGAEeoHJw
